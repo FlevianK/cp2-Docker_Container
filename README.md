@@ -19,7 +19,7 @@ Ensure you have Docker installed.
   ```sh
   docker container run -d --name cp2-container -p 8080:8080 cp2-image
   ```
-3. Open your browser and writing the following url to use the system: http://localhost:8080/
+3. Open your browser and write the following url to use the system: http://localhost:8080/
 
 ## Steps to delete the container
 1. Get the container Id:
