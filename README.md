@@ -23,17 +23,17 @@ Ensure you have Docker installed.
 
 ## Steps to delete the container
 1. Get the container Id:
-```sh
-docker container ls
-```
+  ```sh
+  docker container ls
+  ```
 2. To stop the container:
-```sh
-docker stop <container-id>
-```
+  ```sh
+  docker stop <container-id>
+  ```
 3. To destroy the container:
-```
-docker rm <container-id>
-```
+  ```
+  docker rm <container-id>
+  ```
 
 ## Author
 **Flevian Kanaiza**
