@@ -1,5 +1,5 @@
 # cp2-Docker_Container
-This repo holds docker container script for hosting cp2
+This repo holds docker container script for hosting cp2 application
 
 ## Prerequisites
 Ensure you have Docker installed.
